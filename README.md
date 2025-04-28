@@ -15,7 +15,7 @@ Apply unsupervised learning techniques, including PCA for dimensionality reducti
   - Reduced feature dimensionality while preserving variance.
   - Fit PCA on training data and transformed both training and testing sets.
 - Clustering:
-  - Applied clustering models (e.g., K-Means) on the PCA-transformed data.
+  - Applied clustering models (K-Means) on the PCA-transformed data.
 - Evaluated clustering performance using cluster accuracy scores and visualized cluster separations.
 - **Libraries**: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`
 
